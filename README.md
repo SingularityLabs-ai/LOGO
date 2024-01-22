@@ -1,9 +1,8 @@
 
-<h1 align="center">MultiGPT</h1>
+<h1 align="center">LOGO</h1>
 
 <div align="center">
 
-### LOGO
 
 [![author][author-image]][author-url]
 [![license][license-image]][license-url]
